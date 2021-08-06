@@ -1,0 +1,22 @@
+Useful basic vim commands
+
+*To learn about vim - "Tutor"
+
+1.Cursor moving- "either arrow keys" or "hjkl"
+
+2.Insert mode- "i"
+3.Normal mode- "esc"
+4.save and exit - ":wq" exit without saving- "q"
+
+5.Deleting single letters pointed in cursor- "x"
+6.Deleting words - "dw"
+7.Deleting whole lines- "dd"
+
+8.Undo deleted - "u"
+
+9.To get shell in vim - ":!(commands)"
+
+10.To select words,lines - "v"
+
+11. To paste selected words - "p"
+
