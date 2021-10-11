@@ -19,4 +19,4 @@ Useful basic vim commands
 10.To select words,lines - "v"
 
 11. To paste selected words - "p"
-
+12. To select all - (v- visual mode)& G
